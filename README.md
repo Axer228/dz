@@ -54,3 +54,9 @@
 
 Картинки
 -------
+
+![Альт текст](закат.png)
+
+![логотип](https://avatars.mds.yandex.net/i?id=dd8180e2edd93b8a15773b9da8894b5bd0733102-12421090-images-thumbs&n=13 "Подсказка")
+
+[![клик по картинке](закат.png)](https://ru.pinterest.com)
