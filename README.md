@@ -69,5 +69,26 @@
 >
 >> Вложенная
 
+Код
+---
 
+```mardown
+print("Hello") Python
+```
 
+```python
+c = a+b
+print(f"{c} = {a} + {b}")
+```
+
+Таблицы
+-------
+
+| Name | Age | City |
+|-----:|:---:|:-----|
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
+|SS    | 34  | MOd  |
